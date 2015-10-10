@@ -62,4 +62,4 @@ print("Total of Photos: %.0f" % tPhotos + " photos")
 
 # Getting photoInterval
 pInterval = photoInterval()
-print ("Photo Interval: %.0f" % pInterval + "m/s")
+print ("Photo Interval: %.0f" % pInterval + "s")
