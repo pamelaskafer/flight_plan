@@ -1,4 +1,9 @@
-# Script teórico para calcular um plano de vôo aerofotogramétrico
+## Script teórico para calcular um plano de vôo aerofotogramétrico
+
+### Como rodar
+```bash
+python main.py 
+```
 
 ### Variáveis
 scale (cm)  
@@ -15,4 +20,4 @@ plane_speed (km/h)
 5) Total of photos  
 6) Total band  
 7) Total of photos by band  
-8) Photo interval  
+8) Photo interval (m/s)  
